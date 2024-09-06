@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_jj_sl_cust_det_otp7442">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>JJ SL Customer Details OTP-7442</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/jobinandjismi/raf_preparation/jj_sl_customer_details_otp7436.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_jj_sl_cust_det_otp7442">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>TESTING</status>
+      <title>JJ SL Customer Details OTP-7442</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

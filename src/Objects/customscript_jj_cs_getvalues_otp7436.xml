@@ -1,0 +1,10 @@
+<clientscript scriptid="customscript_jj_cs_getvalues_otp7436">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>JJ CS GetValues OTP-7436</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/jobinandjismi/raf_preparation/jj_cs_inactive_or_active_csutomers_otp7436.js]</scriptfile>
+</clientscript>
